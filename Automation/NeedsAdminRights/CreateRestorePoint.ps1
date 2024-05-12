@@ -1,0 +1,1 @@
+Checkpoint-Computer -Description $($(Get-Date -Format "s") + "_WeeklyCheckpoint") -RestorePointType MODIFY_SETTINGS
